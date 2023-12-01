@@ -1,4 +1,4 @@
-#Repo Description
+# Repo Description
 
 This repo contains the lecture notes of the Prototürk React training series that I started to learn React.
 
